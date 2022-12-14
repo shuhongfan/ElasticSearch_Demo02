@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ElasticSearch_Demo02.iml" filepath="$PROJECT_DIR$/.idea/ElasticSearch_Demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyES/MyES.iml" filepath="$PROJECT_DIR$/MyES/MyES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es集成/es-springdata/es.iml" filepath="$PROJECT_DIR$/es集成/es-springdata/es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es集成/es-flink/es-flink.iml" filepath="$PROJECT_DIR$/es集成/es-flink/es-flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es集成/es-sparkstreaming/es-sparkstreaming.iml" filepath="$PROJECT_DIR$/es集成/es-sparkstreaming/es-sparkstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-test/es-test.iml" filepath="$PROJECT_DIR$/es-test/es-test.iml" />
+    </modules>
+  </component>
+</project>
